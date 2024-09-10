@@ -12,7 +12,7 @@ public class Account {
 
     private String username;
     private String password;
-
+    private String name;
     // Constructor
     public Account(String username, String password) {
         this.username = username;
